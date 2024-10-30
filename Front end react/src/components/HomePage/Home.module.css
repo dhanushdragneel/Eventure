@@ -1,0 +1,60 @@
+/* Home.module.css */
+
+.home {
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #e65c00;
+  }
+  
+  .features {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .feature {
+    margin-bottom: 20px;
+  }
+  
+  .gallery {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .gallery img {
+    width: 300px;
+    margin: 10px;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+  }
+  

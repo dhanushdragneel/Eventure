@@ -1,0 +1,19 @@
+.footer {
+    background-color: #1f1d1d;
+    padding: 48px 0;
+  }
+  
+  .footer h6 {
+    font-size: 1.25rem;
+    margin-bottom: 16px;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
